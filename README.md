@@ -39,7 +39,7 @@ Virtual Environment for Python dependencies
 Installation
 Clone the Repository:
 
-git clone https://github.com/Adithya2357/NeuralGuard.git
+git clone https://github.com/else715/NeuralGuard-.git
 cd NeuralGuard
 
 Set Up a Virtual Environment:
