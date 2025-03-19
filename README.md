@@ -1,1 +1,2 @@
 # NeuralGuard-
+NeuralGuard is an AI-powered, real-time intrusion detection system that performs threat analysis and logs potential threats. It uses Kafka for data streaming, scikit-learn for machine learning-based threat detection, Elasticsearch for logging, and Grafana for visualization. This project is designed to detect anomalous network traffic and alert on potential security threats in real time.
